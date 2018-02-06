@@ -3,11 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
+package javaapplication89;
 
 /**
  *
  * @author Student
  */
-public class ClassA {
-    int a = new A();
+public class JavaApplication89 {
+
+
+    public static void main(String[] args) {
+        
+    }
+    
 }
